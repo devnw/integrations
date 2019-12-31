@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/pkg/errors"
 	"github.com/nortonlifelock/crypto"
 	"github.com/nortonlifelock/domain"
 	"github.com/nortonlifelock/jira"
+	"github.com/pkg/errors"
 )
 
 // TicketingEngine defines the methods required for the application to interact with a ticketing website, such as JIRA or service now
