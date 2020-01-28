@@ -116,6 +116,8 @@ github.com/nortonlifelock/qualys v1.0.0 h1:OHQI3OfukZTsKqqBYleFF/+iIvsOT5WE1YUh+
 github.com/nortonlifelock/qualys v1.0.0/go.mod h1:cK/XqLm8126rJUps+dI7qR4gpciMIQDfmpA0vyhQFGo=
 github.com/nortonlifelock/qualys v1.0.1-0.20200127165514-bb966e76ee96 h1:mt8wLj9zDYUDbcj8qPvUYul4HR49byrNQa9uFbuDh68=
 github.com/nortonlifelock/qualys v1.0.1-0.20200127165514-bb966e76ee96/go.mod h1:aN/0ebUERATxhaovj8wdSZWU3oaWo++QSG+tJpygW0c=
+github.com/nortonlifelock/qualys v1.0.1-0.20200128212441-a43906ff3ce5 h1:4PnsJ99FQt99xc/vEbFwhAVVRWO9uR1q+iqRFCGyyWk=
+github.com/nortonlifelock/qualys v1.0.1-0.20200128212441-a43906ff3ce5/go.mod h1:vSccSglfYBSHQ+2m5SOsatyPquG1gUg7gqbF5WG0/IU=
 github.com/nortonlifelock/ttl v1.0.0 h1:D6x82h26yOaOJVKyKyQvMAm/eYvmIbgtzIAUMlFCPjU=
 github.com/nortonlifelock/ttl v1.0.0/go.mod h1:3G7lTpUWzd6pHPO/k3LGkM7jp+ztEq8oZ1C+o+BQ2l0=
 github.com/pkg/errors v0.8.0/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
