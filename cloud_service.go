@@ -25,6 +25,8 @@ type CloudServiceConnection interface {
 
 type config interface {
 	EncryptionKey() string
+	KMSRegion() string
+	KMSProfile() string
 }
 
 // GetCloudServiceConnection returns a struct that implements the CloudServiceConnection interface
